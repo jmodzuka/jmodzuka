@@ -49,6 +49,8 @@ I am also the founder of **Deworx** ([www.deworx.co.za](https://www.deworx.co.za
 - 🔹 [JP-Morgan-Chase-Cyber-Security-Virtual-Internship-Project](https://github.com/jmodzuka/JP-Morgan-Chase-Cyber-Security-Virtual-Internship-Project) – Private repository containing cybersecurity tasks completed for J.P. Morgan Chase's virtual internship.
 - 🔹 [ISM-SI-354-Final-Year-Project](https://github.com/jmodzuka/ISM-SI-354-Final-Year-Project) – Private repository documenting my final year project for Informatics studies.
 - 🔹 [Standard-Bank-Software-Development-Virtual-Internship]() - Private repository showcasing software development tasks from the Standard Bank Virtual Internship.
+- 🔹 [Standard-Bank-Data-Science-Virtual-Internship]() - Private repository showcasing Data Science tasks from the Standard Bank Virtual Internship.
+- 🔹 [QYF-Nedbank-Case-Study]() – Private repository containing a predictive model for loan approvals using data analysis and cleaning techniques, for the QYF Internship
   
 ## Connect with Me
 
