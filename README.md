@@ -33,7 +33,6 @@ I'm a dedicated Informatics graduate student with a robust background in data, t
 - **Data & Cloud Platforms:** SAP Analytics , MySQL
 - **Development Tools:** GitHub, Jupyter Notebook
 - **Frameworks & Libraries:** React, Next.js, Node.js, Flutter, ASP.NET
-- **Frameworks:**
 
 ## Projects & Research
 
