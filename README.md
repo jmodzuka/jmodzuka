@@ -31,9 +31,9 @@ I am also the founder of **Deworx** ([www.deworx.co.za](https://www.deworx.co.za
 
 ## Tech Stack & Tools
 
-- **Programming Languages:** Python, SQL, R, Java, JavaScript, TypeScript, C#, HTML, CSS, Swift 
-- **Data & Cloud Platforms:** SAP Analytics , MySQL
-- **Development Tools:** GitHub, Jupyter Notebook
+- **Programming Languages:** Python, SQL, R, Java, JavaScript, TypeScript, C#, HTML, CSS, Swift, PHP
+- **Data & Cloud Platforms:** SAP Analytics , MySQL, Google Cloud, Firebase, Ambari, Hadoop
+- **Development Tools:** GitHub, Jupyter Notebook, RStudio, Android Studio, Xcode
 - **Frameworks & Libraries:** React, Next.js, Node.js, Flutter, ASP.NET
 
 ## Projects & Research
