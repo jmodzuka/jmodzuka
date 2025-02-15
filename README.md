@@ -6,6 +6,7 @@
 
 I'm a dedicated Informatics graduate student with a robust background in data, technology, and problem-solving. My professional journey encompasses experience in Radio Network Planning & Optimization (5G), Quantitiative Analytics, and Generative AI Research. I'm passionate about harnessing data-driven insights to drive innovation and enhance efficiency.
 
+I am also the founder of **Deworx** ([www.deworx.co.za](https://www.deworx.co.za)),a start-up web development agency that supports small businesses by offering tailored website design, e-commerce solutions, and digital branding services. Our goal is to empower entrepreneurs with professional and scalable online platforms that enhance their digital presence and drive business growth.
 
 ## Professional Experience
 
