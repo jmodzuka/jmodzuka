@@ -1,6 +1,6 @@
 # Hi there, I'm Jeremiah Naledzi Modzuka!
 
-**Graduate Student in Informatics | Data Enthusiast | AI-Driven Innovator
+**Graduate Student in Informatics | Data Enthusiast | AI-Driven Innovator**
 
 ## About Me
 
