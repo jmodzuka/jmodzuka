@@ -11,7 +11,7 @@ I am also the founder of **Deworx** ([www.deworx.co.za](https://www.deworx.co.za
 ## Professional Experience
 
 - **Network Planning & Optimisation Engineer Intern at Nokia** (August 2023 - January 2024)
-  - Contributed to 5G network deployment, optimization, and automation projects.
+  - Contributed and learned about 2G - 5G network deployment, optimisation, and automation projects.
   - Engaged in network capacity enhancement and conducted data-driven performance analyses.
  
 ## Education
