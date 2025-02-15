@@ -25,7 +25,7 @@ I am also the founder of **Deworx** ([www.deworx.co.za](https://www.deworx.co.za
 
 - **Key Activities:**
   - Developing quantitative models for risk assessment.
-  - Analyzing financial data to identify trends and risk factors.
+  - Analysing financial data to identify trends and risk factors.
   - Implementing statistical techniques and machine learning for predictive modeling.
 - **Technologies Used:** Python, R, SQL, Excel.
 
