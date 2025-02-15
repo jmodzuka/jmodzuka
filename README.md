@@ -48,9 +48,9 @@ I am also the founder of **Deworx** ([www.deworx.co.za](https://www.deworx.co.za
 - 🔹 [KPMG-AU-Data-Analytics-Virtual-Internship](https://github.com/jmodzuka/KPMG-AU-Data-Analytics-Virtual-Internship)– Private repository featuring analytics projects from KPMG’s virtual internship program.
 - 🔹 [JP-Morgan-Chase-Cyber-Security-Virtual-Internship-Project](https://github.com/jmodzuka/JP-Morgan-Chase-Cyber-Security-Virtual-Internship-Project) – Private repository containing cybersecurity tasks completed for J.P. Morgan Chase's virtual internship.
 - 🔹 [ISM-SI-354-Final-Year-Project](https://github.com/jmodzuka/ISM-SI-354-Final-Year-Project) – Private repository documenting my final year project for Informatics studies.
-- 🔹 [Standard-Bank-Software-Development-Virtual-Internship]() - Private repository showcasing software development tasks from the Standard Bank Virtual Internship.
-- 🔹 [Standard-Bank-Data-Science-Virtual-Internship]() - Private repository showcasing Data Science tasks from the Standard Bank Virtual Internship.
-- 🔹 [QYF-Nedbank-Case-Study]() – Private repository containing a predictive model for loan approvals using data analysis and cleaning techniques, for the QYF Internship
+- 🔹 [Standard-Bank-Software-Development-Virtual-Internship](https://github.com/jmodzuka/Software-Development-Virtual-Experience-Programme) - Private repository showcasing software development tasks from the Standard Bank Virtual Internship.
+- 🔹 [Standard-Bank-Data-Science-Virtual-Internship](https://github.com/jmodzuka/Standard-Bank-Data-Science-Virtual-Internship) - Private repository showcasing Data Science tasks from the Standard Bank Virtual Internship.
+- 🔹 [QYF-Nedbank-Case-Study](https://github.com/jmodzuka/QYF-Nedbank-Case-Study) – Private repository containing a predictive model for loan approvals using data analysis and cleaning techniques, for the QYF Internship
 
 **My Certifications**
 Access my certifications through the link below:
