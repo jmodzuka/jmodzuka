@@ -16,7 +16,7 @@ I am also the founder of **Deworx** ([www.deworx.co.za](https://www.deworx.co.za
  
 ## Education
 
-- **Bachelor of Science in Informatics**
+- **Bachelor of S.Science in Informatics**
   - Acquired a strong foundation in Data Analysis, Software Development, and Information Systems.
 
 ## Quantitative Analytics - Quantify Your Future Internship
