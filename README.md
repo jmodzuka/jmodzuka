@@ -1,6 +1,6 @@
 # Hi there, I'm Jeremiah Naledzi Modzuka!
 
-**Graduate Student in Informatics | Data Enthusiast | AI-Driven Innovator**
+**Graduate Student in Informatics | Data Driven | AI-Enthusiast**
 
 ## About Me
 
@@ -51,6 +51,11 @@ I am also the founder of **Deworx** ([www.deworx.co.za](https://www.deworx.co.za
 - 🔹 [Standard-Bank-Software-Development-Virtual-Internship]() - Private repository showcasing software development tasks from the Standard Bank Virtual Internship.
 - 🔹 [Standard-Bank-Data-Science-Virtual-Internship]() - Private repository showcasing Data Science tasks from the Standard Bank Virtual Internship.
 - 🔹 [QYF-Nedbank-Case-Study]() – Private repository containing a predictive model for loan approvals using data analysis and cleaning techniques, for the QYF Internship
+
+**My Certifications**
+Access my certifications through the link below:
+
+[View Certificates](https://drive.google.com/drive/folders/YOUR-FOLDER-ID)
   
 ## Connect with Me
 
